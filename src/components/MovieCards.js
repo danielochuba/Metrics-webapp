@@ -1,7 +1,17 @@
 import React from 'react';
+import {
+  Container, Row,
+} from 'react-bootstrap';
+import MovieCard from './MovieCard';
 
-const MovieCards = () => (
-  <div>MovieCards</div>
-);
+function MovieCards() {
+  return (
+    <Container style={{ marginTop: '2rem' }}>
+      <Row>
+        <MovieCard />
+      </Row>
+    </Container>
+  );
+}
 
 export default MovieCards;
