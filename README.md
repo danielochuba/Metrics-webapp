@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1><b>
-World Countries Information</b></h1>
+Movies Metrics webapp</b></h1>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -30,9 +30,9 @@ World Countries Information</b></h1>
 
 <!-- PROJECT DESCRIPTION -->
 
-# 🌍 World Countries Information <a name="about-project"></a>
+# Movies Webapp <a name="about-project"></a>
 
-World Countries Information is a mobile web application based in the [RestCountry API](https://restcountries.com/). Users can search for countries and see population stats and more detailed information like capitals, time zones, currencies, languages and more.
+Movies metrics Webapp is a mobile web application based in the [ API](https://api.themoviedb.org.com/). Users can view movies info and more detailed information like description, etc.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -59,9 +59,7 @@ World Countries Information is a mobile web application based in the [RestCountr
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> You can see the Live Demo [here.](https://world-countries-information.onrender.com)
-
-> You can watch the video description of the project [here.](https://www.loom.com/share/48dac7f3eb0d46faafafa70d3b1d0edd?sid=771e6914-6401-4678-aedd-89d15d737f0e)
+> You can see the Live Demo [here.](https://aesthetic-moxie-c46aa0.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,7 +80,7 @@ In order to run this project you need:
 In order to clone this repository to your desired folder, run the commands below on your console:
 
 ```sh
-    git clone https://github.com/Luiscarlosvd/world-countries-info.git
+    git clone https://github.com/danielochuba/Metrics-webapp.git
 ```
 
 ### Install
@@ -116,18 +114,17 @@ To run tests, run the following command:
 
 ## 👥 Author <a name="authors"></a>
 
-👤 **Luis Valera**
-
-- GitHub: [@Luiscarlosvd](https://github.com/Luiscarlosvd)
-- Twitter: [@Luiscarlosvd29](https://twitter.com/Luiscarlosvd29)
-- LinkedIn: [Luis Valera](https://www.linkedin.com/in/luis-valera-6a5749267/)
+👤 **Daniel Ochuba**
+- GitHub: [@danielochuba](https://github.com/danielochuba)
+- Twitter: [@ochuba_daniel](https://twitter.com/ochuba_daniel)
+- LinkedIn: [Daniel Ochuba](www.linkedin.com/in/daniel-ochuba-ugochukwu)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Desktop design. 💻
-- More Information about countries. 🎉
+- More Information about . 🎉
+- Search functionality, to help user search for specific movie
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,7 +134,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Luiscarlosvd/world-countries-info/issues).
+Feel free to check the [issues page](https://github.com/danielochuba/Metrics-webapp/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
