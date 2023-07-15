@@ -1,17 +1,20 @@
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import './App.css';
-
+import { BrowserRouter as Router } from 'react-router-dom';
+import { Routes, Route } from 'react-router';
+import { Provider } from 'react-redux';
 import MovieCards from './components/MovieCards';
-import MovieDetails from './components/MovieDetails';
+import CountryDetails from './components/MovieDetails';
 import Navbar from './components/Navbar';
+import store from './redux/store';
 
 function App() {
   return (
     <Router>
-      <Navbar />
+      <Provider store={store}>
+        <Navbar />
+      </Provider>
       <Routes>
         <Route exact path="/" element={<MovieCards />} />
-        <Route path="/details/:id" element={<MovieDetails />} />
+        <Route path="/details/:id" element={<CountryDetails />} />
       </Routes>
     </Router>
   );
