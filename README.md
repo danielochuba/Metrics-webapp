@@ -53,9 +53,9 @@ World Countries Information is a mobile web application based in the [RestCountr
 
 ### Key Features <a name="key-features"></a>
 
-- Fetches a list of countries from [RestCountry API](https://restcountries.com/) and shows population stats.
-- Fetches a detailed list of information about a selected country.
-- User can search by Country name and region.
+- Fetches a list of Movies from [The movieDB API](https://wwww.themoviedb.org) and shows Movie posters.
+- Displays details for each movie upon click.
+- User can navigate back and forth the pages.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
