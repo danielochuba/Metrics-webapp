@@ -9,12 +9,13 @@
 }
 
 .feeds {
+  border: 1px solid rgb(255, 255, 255);
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
   margin: 0 auto;
-  width: 100%;
+  width: 80%;
   max-width: 1200px;
   padding: 0 20px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -42,6 +43,7 @@
   text-transform: uppercase;
   letter-spacing: 2px;
   margin-bottom: 10px;
+
 }
 
 .description {
@@ -49,7 +51,7 @@
   font-size: 2.5vw;
   font-weight: 400;
   margin: auto;
-  padding: 0;
+  padding: 5px;
   text-align: justify;
   color: white;
   text-shadow: 2px 2px 4px #000;
@@ -57,4 +59,5 @@
   letter-spacing: 2px;
   margin-bottom: 10px;
   width: 80%;
+  border: 1px solid white;
 }
