@@ -7,10 +7,38 @@
 
 .movieCard {
   padding: 0;
+  position: relative;
+  text-align: center;
+  color: white;
 }
 
-.row {
-  padding: 10px;
+.centered {
+  position: absolute;
+  padding: 0 3px;
+  bottom: 0px;
+  left: 0px;
+  font-size: 3vw;
+  background: rgb(100, 99, 99);
+}
+
+.bottom-right {
+  position: absolute;
+  font-size: 3vw;
+  top: 3px;
+  left: 2px;
+  background: rgb(100, 99, 99);
+}
+
+.context {
+  position: absolute;
+  z-index: 80;
+  position: absolute;
+  bottom: 8px;
+  left: 30px;
+  transform: translate(-39%, -50%);
+  font-size: 3vw;
+  padding: 2px;
+  border-radius: 0 0 6px 0;
 }
 
 .badge {
@@ -23,8 +51,9 @@
 }
 
 .navigator {
-  margin-left: 35%;
-  margin-top: 3%;
+  position: absolute;
+  top: 8px;
+  right: 30px;
 }
 
 @media screen and (min-width: 350px) {

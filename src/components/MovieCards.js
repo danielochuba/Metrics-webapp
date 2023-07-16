@@ -7,10 +7,12 @@ import { Provider } from 'react-redux';
 import MovieCard from './MovieCard';
 import '../css/navbar.css';
 import store from '../redux/store';
+import image from '../images/image.jpg';
 
 function MovieCards() {
   return (
-    <Container style={{ marginTop: '1rem' }}>
+    <Container>
+      <img className="logo w-full" src={image} alt="logo" />
       <Row>
         <Provider store={store}>
           <MovieCard />
