@@ -59,7 +59,9 @@ Movies metrics Webapp is a mobile web application based in the [ API](https://ap
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> You can see the Live Demo [here.](https://aesthetic-moxie-c46aa0.netlify.app/)
+> You can see the Live Demo [here.](https://zippy-banoffee-00ecfc.netlify.app/)
+> You can watch the video description of the project [here.]https://drive.google.com/file/d/1wNf89c0y0wdRbojMz-Yp8xRadNm2LgOj/view?usp=sharing)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,6 +165,6 @@ I would like to thank Microverse for giving me the opportunity to learn and grow
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
